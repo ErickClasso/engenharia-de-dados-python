@@ -1,0 +1,13 @@
+venv/
+anotacoes.md
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.json
+
+#erick
+sabado/
